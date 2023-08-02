@@ -1,0 +1,10 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/healthy-food-background-autumn-fresh-vegetables-dark-stone-table-with-copy-space-top-view_127032-1954.jpg?w=2000");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+#img1,#img2,#img3,#img4{
+    height: 200px;
+    width: 200px;
+}

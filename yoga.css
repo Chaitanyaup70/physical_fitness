@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://t3.ftcdn.net/jpg/04/87/48/66/360_F_487486623_CatNgUbulZ6rOpENckeTzRfY7IzrqOKd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: aliceblue;
+}
+#log_out{
+    border-radius: 50%;
+   background-color: lightblue;
+}
+#img1,#img2,#img3,#img4,#img5,#img6,#img7{
+    height: 150px;
+    width: 150px;
+}
+table, th, td {
+    border: 1px solid aliceblue;
+    color:aliceblue;
+  }
+  
